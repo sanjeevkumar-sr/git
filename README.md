@@ -39,7 +39,7 @@ A  ->  Added File     (green)
 
 ?? ->  Untracked file (Red)
 
-# git add <file name>
+# git add (file Name)
   
  To add file in stanging area
 
