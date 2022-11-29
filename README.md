@@ -42,5 +42,21 @@ A  ->  Added File     (green)
 # git add (file Name)
   
  To add file in stanging area
+ 
+ # git commit -m "type any message"
+ 
+ Stanging area to local repository
+ 
+ # git log 
+ 
+ To check Info
+ 
+ # git show (commit ID) 
+ 
+ To view the file
+ 
+ # git config --global user.name ("github username)
+ 
+ To know the person who commit
 
 
