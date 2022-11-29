@@ -11,4 +11,4 @@ sudo apt update
 sudo apt install git
 git --version
 
-https://javarevisited.blogspot.com/2018/01/5-free-git-courses-for-programmers-to-learn-online.html
+![128hsgntnsu9bww0y8sz](https://user-images.githubusercontent.com/108890603/204459895-847198e2-44f9-490e-9f8d-69fed4b39835.jpeg)
