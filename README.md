@@ -55,8 +55,17 @@ A  ->  Added File     (green)
  
  To view the file
  
- # git config --global user.name ("github username)
+ # git config --global user.name ("github username")
  
  To know the person who commit
 
+# git config --global user.email ("user email-ID")
+
+# git remote add (project Name) (git url)
+
+# git push (project name) master
+
+Username : Github username
+
+Password : Personal access token
 
